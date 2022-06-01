@@ -31,7 +31,7 @@
     "ora": "^4.0.4",
     "p-queue": "^6.4.0",
     "qs": "^6.9.4",
-    "sharp": "^0.25.3"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.1",
