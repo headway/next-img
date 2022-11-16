@@ -8,10 +8,10 @@
     "release:docs": "npm run clean && npm run build && gh-pages -d out -t"
   },
   "dependencies": {
-    "@mdx-js/loader": "^1.6.5",
+    "@mdx-js/loader": "^2.1.5",
     "@next/mdx": "^9.4.4",
     "js-beautify": "^1.11.0",
-    "next": "^9.3.5",
+    "next": "^13.0.3",
     "next-compose-plugins": "^2.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
